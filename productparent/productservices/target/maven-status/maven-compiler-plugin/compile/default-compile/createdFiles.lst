@@ -1,0 +1,5 @@
+com\vishal\product\dao\ProductDAO.class
+com\vishal\product\dto\Product.class
+com\vishal\product\bo\ProductBO.class
+com\vishal\product\dao\ProductDAOImpl.class
+com\vishal\product\bo\ProductBOImpl.class
